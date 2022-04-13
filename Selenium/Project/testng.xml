@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuite" parallel="methods">
+
+    <test name="Tests">
+        <classes>
+            <class name="CRM.Activity_1" />
+            <class name="CRM.Activity_2"/>
+            <class name="CRM.Activity_3"/>
+            <class name="CRM.Activity_4"/>
+            <class name="CRM.Activity_5"/>
+            <class name="CRM.Activity_6"/>
+            <class name="CRM.Activity_7"/>
+            <class name="CRM.Activity_8"/>
+            <class name="CRM.Activity_9"/>
+
+        </classes>
+    </test>
+</suite>
+
+
